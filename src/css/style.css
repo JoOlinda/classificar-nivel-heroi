@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ferro{
+    background-color: rgb(62 64 66);
+}
+.bronze{
+    background-color: #523807;
+}
+.prata{
+    background-color: gray;
+}
+.ouro{
+    background-color: #ca8d32;
+}
+.platina{
+    background-color: #39a0b2;
+}
+.asendente{ 
+    background-color: #0e5f34;
+}
+.imortal{
+    background-color: crimson;
+}
+.radiante{
+    background-color: #a9782b;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    width: 258px;
+    height: 289px;
+}
